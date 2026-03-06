@@ -16,3 +16,11 @@ This paper introduces a virtual try-on system designed to evaluate footwear desi
 
 6. **Novel Application of RGB-D Cameras**: This system highlights how RGB-D cameras, which capture both color (RGB) and depth (D) data, can be used effectively in product design to create immersive and interactive consumer try-on experiences.
 
+
+
+## Results: 
+
+![3](https://github.com/user-attachments/assets/3485b514-9720-4a11-b676-7a1bc45b6ee6)
+![2](https://github.com/user-attachments/assets/5d427605-8a89-47e9-bad8-02d7734431e7)
+![1](https://github.com/user-attachments/assets/322793b2-d3d5-48be-9531-f516346459a0)
+
